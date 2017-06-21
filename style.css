@@ -1,0 +1,135 @@
+.bodydiv{
+  background: radial-gradient(ellipse at center, rgb(82, 62, 70) 0%,rgb(31, 14, 19) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#627d4d', endColorstr='#1f3b08',GradientType=1 );
+  padding-bottom: 0px;
+  width:950px;
+}
+
+.titlediv{
+  font-family: "Comic Sans MS", "Comic Sans";
+  font-weight:bold;
+  font-size:30px;
+  padding: 20px;
+  background-color:#EEEEEE;
+}
+
+.profilepic{
+  width:430px;
+  border: solid 4px #EEEEEE;
+  margin: 15px 15px 15px 15px;
+
+}
+
+.subtitle{
+  display:inline;
+  padding-left:35%;
+  font-size:25px;
+  font-family:"Arial";
+}
+
+#aboutme{
+  display:inline-block;
+  vertical-align: top;
+  margin: 20px;
+  width:430px;
+  height:272px;
+  background-color:rgb(238, 230, 237);
+  padding-bottom: 10px;
+}
+
+.boxheader{
+  background: radial-gradient(ellipse at center, rgb(89,106,114) 0%,rgb(177, 176, 180) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cedce7', endColorstr='#596a72',GradientType=1 );
+  padding: 12px;
+  color:#FFFFFF;
+  font-family:"Arial";
+  font-weight:bold;
+  font-size:20px;
+}
+
+a{
+  text-decoration-color:rgb(64,0,0);
+  color:rgb(64,0,0);
+}
+
+
+span{
+  display:block;padding-top:10px;
+}
+
+p{
+  padding: 0px 10px 10px 10px;
+  word-wrap: break-word;
+  font-size:15px;
+}
+
+.contents{
+  width:230px;
+  margin:10px;
+}
+
+.contentmain{
+  display:inline-block;
+  vertical-align: top;
+  margin: 10px 0px 0px 18px;
+  width:287px;
+  height:572px;
+  background-color:rgb(238, 230, 237);
+
+}
+
+.contentimg{
+  width:260px;
+}
+
+.boxcontent{
+  background: radial-gradient(ellipse at center, rgb(89,106,114) 0%,rgb(177, 176, 180) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cedce7', endColorstr='#596a72',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  padding: 12px;
+  color:#FFFFFF;
+  font-family:"Arial";
+  font-weight:bold;
+  font-size:18px;
+}
+
+.techbox{
+  margin-left:5px;
+  margin-top:10px;
+}
+
+.tech{
+  width:38px;
+  margin:4px;
+}
+
+
+.techbuttons{
+  border-radius:15px;
+  margin-left:80px;
+  margin-top:10px;
+  margin-bottom:30px;
+  background-color:rgb(64, 125, 97);
+  padding: 3px 10px 3px 10px;
+  font-weigth:bold;
+  color:white;
+  border: solid 1px black;
+  font-size:15px;
+  box-shadow:3px 3px gray;
+  top:945px;
+  position:absolute;
+}
+
+#bottom{
+  background-color:#DDDDDD;
+  margin-top:30px;
+  margin-bottom:0px;
+  padding-bottom:20px;
+  text-align:center;
+  padding-top:10px;
+  font-size:20px;
+  font-size:10p5;
+}
+
+.contactimg{
+  height:25px;
+}
